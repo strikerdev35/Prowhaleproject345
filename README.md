@@ -1,3 +1,3 @@
-![Demo Screenshot]([https://example.com/screenshot.png](https://github.com/strikerdev35/Prowhaleproject345/blob/main/Enemy_All-Devouring_Narwhal.webp))
+![Demo Screenshot](https://github.com/strikerdev35/Prowhaleproject345/blob/main/Screenshot%202025-06-22%20102708.png?raw=true)
 
 
